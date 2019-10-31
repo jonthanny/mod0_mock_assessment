@@ -1,0 +1,14 @@
+Class: Plant
+
+Attributes:
+plantName (string)
+monthsOld (integer)
+inchesTall (float)
+fertilized (boolean)
+watered (boolean)
+
+Methods:
+addFertilizer (changes fertilized attribute to true)
+trim (subtracts a number from the inchesTall parameter)
+label (displays string from plantName + displays an integer from monthsOld)
+water (changes the watered attribute to true)
