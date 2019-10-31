@@ -1,0 +1,72 @@
+Making a sandwich (pb&j):
+
+1 Gather ingredients
+  1.1 Walk to pantry
+    1.1.1 If standing status is true, proceed. Else, run stand up script.
+    1.1.2 Locate pantry
+    1.1.3 Turn body towards pantry location
+    1.1.4 Walk to pantry
+  1.2 Open pantry
+    1.2.1 Place hand on handle
+    1.2.2 Grasp handle firmly
+    1.2.3 Pull handle towards you
+    1.2.4 swing pantry door out slowly until the hinge angle is equal to 120 degrees
+  1.3 Grab bread
+  1.4 Grab peanut butter
+  1.5 Walk to workstation
+  1.6 Place bread and peanut butter on workstation surface
+  1.7 Get jelly
+    1.7.1 Walk to refrigerator
+    1.7.2 Open refrigerator
+      1.7.2.1 Place hand on handle
+      1.7.2.2 Grasp the handle firmly
+      1.7.2.3 Pull handle toward you
+      1.7.2.4 Swing the refrigerator door out slowly until the hinge angle is equal to 120 degrees.
+    1.7.3 Get jelly
+      1.7.3.1 Visually locate the jelly
+      1.7.3.2 Place hand on the jelly jar
+      1.7.3.3 Grasp the jar firmly
+      1.7.3.4 Pick the jar up
+      1.7.3.5 Pull jar towards you
+    1.7.4 Close refrigerator door
+      1.7.4.1 Place hand on exterior surface of refrigerator
+      1.7.4.2 Grasp surface firmly
+      1.7.4.3 Rotate door on its hinge until the hinge angle is equal to 0 degrees
+  1.8 Walk to workstation
+  1.9 Place jelly on workstation surface
+  1.10 Get knife
+    1.10.1 Locate silverware drawer
+    1.10.2 turn toward silverware drawer
+    1.10.3 walk to silverware drawer
+    1.10.4 open silverware drawer
+    1.10.5 locate butter knife
+    1.10.6 Grab butter knife with one hand
+    1.10.7 close silverware drawer with other hand
+    1.10.8 walk to workstation
+    1.10.9 place knife on workstation surface
+2 Prepare ingredients to be assembled
+  2.1 open bread bag
+  2.2 grab 2 slices of bread
+  2.3 place bread slices on workstation, side by side
+  2.4 assign string value "1" to one slice of bread, and string value "2" to the other
+  2.4 open the peanut butter jar
+  2.5 open the jelly jar
+3 Assemble ingredients
+  3.1 smear peanut butter on bread slice "1"
+    3.1.1 pick up knife by its handle
+    3.1.2 place knife into jar deep enough to cover the knife blade
+    3.1.3 scoop enough peanut butter out of jar to coat 1 slice of bread on one side
+    3.1.4 touch the coated side of the knife onto the topmost side of bread slice "1"
+    3.1.5 smear peanut butter to coat entire topmost surface
+  3.2 smear jelly on bread slice "2"
+    3.2.1 pick up knife by its handle
+    3.1.2 place knife into jar deep enough to cover the knife blade
+    3.1.3 scoop enough jelly out of jar to coat 1 slice of bread on one side
+    3.1.4 touch the coated side of the knife onto the topmost side of bread slice "2"
+    3.1.5 smear jelly to coat entire topmost surface
+  3.3 put bread slices together
+    3.3.1 pick up bread slice "1" by bottom and side surfaces, keeping coated surface pointing up
+    3.3.2 flip bread slice "1" over 180 degrees so that the coated side now faces downward
+    3.3.3 align bread slice "1" to bread slice "2" so that all sides are parallel
+    3.3.4 lower bread slice "1" down to bread slice "2" until coated surfaces touch each together
+    3.3.5 let go of bread slices
